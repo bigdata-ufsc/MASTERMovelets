@@ -1,4 +1,4 @@
-# MASTERMovelets_Optimizations
+# MASTERMovelets Optimizations
 
 This is a project with the MASTERMovelets implementation, with three options of optimizations.
 
