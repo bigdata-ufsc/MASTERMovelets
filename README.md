@@ -1,6 +1,6 @@
 # MASTERMovelets Optimizations
 
-This is a project with the MASTERMovelets implementation, with three options of optimizations.
+This is a project with the MASTERMovelets(ferrero-2019) implementation, with three options of optimizations(silva-2019).
 
     MASTERMovelet-Log: limiting the movelets size to the ln size of the trajectory
     
